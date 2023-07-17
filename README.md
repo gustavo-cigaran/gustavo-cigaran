@@ -20,7 +20,13 @@
   <a href="https://www.facebook.com/gustavo.cigaran" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gustavocigaran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavocigaran@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavocigaran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavocigaran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+   <img alt="github-snake" src="github-snake.svg" />
+ </picture>
  
   ![Snake animation](https://github.com/gustavo-cigaran/gustavo-cigaran/blob/output/github-contribution-grid-snake.svg)
 
